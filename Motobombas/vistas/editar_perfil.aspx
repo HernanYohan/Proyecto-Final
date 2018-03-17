@@ -45,7 +45,7 @@
                                         <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="TB_nombre1" ErrorMessage="*" ForeColor="Black"></asp:RequiredFieldValidator>
                                     </td>
                                     <td>
-                                        <asp:RangeValidator ID="RangeValidator1" runat="server" ControlToValidate="TB_nombre1" ErrorMessage="Solo letras , primera en mayuscula ." ForeColor="Black" MaximumValue="Z,z" MinimumValue="A,a"></asp:RangeValidator>
+                                        <asp:RangeValidator ID="RV_nombre" runat="server" ControlToValidate="TB_nombre1" ErrorMessage="Solo letras , primera en mayuscula ." ForeColor="Black" MaximumValue="Z,z" MinimumValue="A,a"></asp:RangeValidator>
                                     </td>
                                 </tr>
                             </table>
@@ -63,7 +63,7 @@
                                         <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="TB_apellido1" ErrorMessage="*" ForeColor="Black"></asp:RequiredFieldValidator>
                                     </td>
                                     <td>
-                                        <asp:RangeValidator ID="RangeValidator2" runat="server" ControlToValidate="TB_apellido1" ErrorMessage="Solo letras , primera en mayuscula ." ForeColor="Black" MaximumValue="Z,z" MinimumValue="A,a"></asp:RangeValidator>
+                                        <asp:RangeValidator ID="RV_apellido" runat="server" ControlToValidate="TB_apellido1" ErrorMessage="Solo letras , primera en mayuscula ." ForeColor="Black" MaximumValue="Z,z" MinimumValue="A,a"></asp:RangeValidator>
                                     </td>
                                 </tr>
                             </table>
@@ -85,7 +85,7 @@
                         <EditItemTemplate>
                             <asp:TextBox ID="TB_telefono" runat="server" Text='<%# Bind("telefono") %>' TextMode="Number"></asp:TextBox>
                             <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" ControlToValidate="TB_telefono" ErrorMessage="*"></asp:RequiredFieldValidator>
-                            <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ControlToValidate="TB_telefono" ErrorMessage="Maximo 12 digitos" style="color: #FF0000" ValidationExpression="\d{1,12}" ForeColor="Black"></asp:RegularExpressionValidator>
+                            <asp:RegularExpressionValidator ID="REV_telefono" runat="server" ControlToValidate="TB_telefono" ErrorMessage="Maximo 12 digitos" style="color: #FF0000" ValidationExpression="\d{1,12}" ForeColor="Black"></asp:RegularExpressionValidator>
                         </EditItemTemplate>
                         <ItemTemplate>
                             <asp:Label ID="Label4" runat="server" Text='<%# Bind("telefono") %>'></asp:Label>
@@ -104,7 +104,7 @@
                         <EditItemTemplate>
                             <asp:TextBox ID="TB_correo" runat="server" Text='<%# Bind("correo") %>' MaxLength="15"></asp:TextBox>
                             <asp:RequiredFieldValidator ID="RequiredFieldValidator7" runat="server" ControlToValidate="TB_correo" ErrorMessage="*"></asp:RequiredFieldValidator>
-                            <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" ControlToValidate="TB_correo" ErrorMessage="No es un correo &quot;@&quot;,&quot;.&quot;" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"></asp:RegularExpressionValidator>
+                            <asp:RegularExpressionValidator ID="REV_correo" runat="server" ControlToValidate="TB_correo" ErrorMessage="No es un correo &quot;@&quot;,&quot;.&quot;" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"></asp:RegularExpressionValidator>
                         </EditItemTemplate>
                         <ItemTemplate>
                             <asp:Label ID="Label7" runat="server" Text='<%# Bind("correo") %>'></asp:Label>

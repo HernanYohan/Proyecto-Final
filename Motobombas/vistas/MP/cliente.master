@@ -157,7 +157,7 @@
                     </asp:DropDownList>
                 </td>
                 <td class="nuevoEstilo24">
-                    <asp:Button ID="Button1" runat="server" Text="Historial de pedidos" style="margin-right: 0px; color: #FFFFFF; background-color: #0066CC;" CssClass="nuevoEstilo31" OnClick="Button1_Click" />
+                    <asp:Button ID="Bt_historial_pedido" runat="server" Text="Historial de pedidos" style="margin-right: 0px; color: #FFFFFF; background-color: #0066CC;" CssClass="nuevoEstilo31" OnClick="Button1_Click" />
                 </td>
                 <td class="nuevoEstilo25" colspan="2">
                     <asp:DropDownList ID="DDL_perfilC" runat="server" style="color: #FFFFFF; background-color: #0066CC" AutoPostBack="True" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged">

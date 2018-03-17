@@ -129,10 +129,10 @@
                     </asp:DropDownList>
                 </td>
                 <td class="auto-style19">
-                    <asp:Button ID="Button1" runat="server" Height="36px" style="margin-left: 4px; margin-top: 98px; color: #FFFFFF;" Text="Inicio Sesion" Width="136px" OnClick="Button1_Click" CssClass="nuevoEstilo20" />
+                    <asp:Button ID="Bt_inicioC" runat="server" Height="36px" style="margin-left: 4px; margin-top: 98px; color: #FFFFFF;" Text="Inicio Sesion" Width="136px" OnClick="Button1_Click" CssClass="nuevoEstilo20" />
                 </td>
                 <td class="auto-style18">
-                    <asp:Button ID="Button2" runat="server" Height="37px" style="margin-left: 15px; margin-top: 98px; margin-bottom: 0px; color: #FFFFFF;" Text="Registro" Width="120px" OnClick="Button2_Click" CssClass="nuevoEstilo19" />
+                    <asp:Button ID="Bt_registro" runat="server" Height="37px" style="margin-left: 15px; margin-top: 98px; margin-bottom: 0px; color: #FFFFFF;" Text="Registro" Width="120px" OnClick="Button2_Click" CssClass="nuevoEstilo19" />
                 </td>
                 <td class="auto-style17">
                     <asp:Image ID="Image4" runat="server" Height="115px" ImageUrl="~/imagenes/logo.png" Width="102px" />

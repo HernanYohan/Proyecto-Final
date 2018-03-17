@@ -18,7 +18,7 @@
                                             <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="TB_nombre" ErrorMessage="*" ForeColor="White"></asp:RequiredFieldValidator>
                                         </td>
                                         <td>
-                                            <asp:RegularExpressionValidator ID="RegularExpressionValidator3" runat="server" ControlToValidate="TB_nombre" ErrorMessage="Solo letras" ForeColor="White" ValidationExpression="^[A-Za-z]*$"></asp:RegularExpressionValidator>
+                                            <asp:RegularExpressionValidator ID="REV_nombre" runat="server" ControlToValidate="TB_nombre" ErrorMessage="Solo letras" ForeColor="White" ValidationExpression="^[A-Za-z]*$"></asp:RegularExpressionValidator>
                                         </td>
                                     </tr>
                                 </table>
@@ -36,7 +36,7 @@
                                             <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="TB_apellido" ErrorMessage="*" ForeColor="White"></asp:RequiredFieldValidator>
                                         </td>
                                         <td>
-                                            <asp:RegularExpressionValidator ID="RegularExpressionValidator4" runat="server" ControlToValidate="TB_apellido" ErrorMessage="Solo letras" ForeColor="White" ValidationExpression="^[A-Za-z]*$"></asp:RegularExpressionValidator>
+                                            <asp:RegularExpressionValidator ID="REV_apellido" runat="server" ControlToValidate="TB_apellido" ErrorMessage="Solo letras" ForeColor="White" ValidationExpression="^[A-Za-z]*$"></asp:RegularExpressionValidator>
                                         </td>
                                     </tr>
                                 </table>
@@ -58,7 +58,7 @@
                             <EditItemTemplate>
                                 <asp:TextBox ID="TB_telefono" runat="server" Text='<%# Bind("telefono") %>' TextMode="Number"></asp:TextBox>
                                 <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" ControlToValidate="TB_telefono" ErrorMessage="*" ForeColor="White"></asp:RequiredFieldValidator>
-                                <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ControlToValidate="TB_telefono" ErrorMessage="Maximo 12 digitos" ForeColor="White" ValidationExpression="\d{1,12}"></asp:RegularExpressionValidator>
+                                <asp:RegularExpressionValidator ID="REV_telefono" runat="server" ControlToValidate="TB_telefono" ErrorMessage="Maximo 12 digitos" ForeColor="White" ValidationExpression="\d{1,12}"></asp:RegularExpressionValidator>
                             </EditItemTemplate>
                             <ItemTemplate>
                                 <asp:Label ID="Label4" runat="server" Text='<%# Bind("telefono") %>'></asp:Label>
@@ -68,7 +68,7 @@
                             <EditItemTemplate>
                                 <asp:TextBox ID="TB_correo" runat="server" Text='<%# Bind("correo") %>' MaxLength="22"></asp:TextBox>
                                 <asp:RequiredFieldValidator ID="RequiredFieldValidator5" runat="server" ControlToValidate="TB_correo" ErrorMessage="*" ForeColor="White"></asp:RequiredFieldValidator>
-                                <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" ControlToValidate="TB_correo" ErrorMessage="No es un correo &quot;@&quot;,&quot;.&quot;" ForeColor="White" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"></asp:RegularExpressionValidator>
+                                <asp:RegularExpressionValidator ID="REV_correo" runat="server" ControlToValidate="TB_correo" ErrorMessage="No es un correo &quot;@&quot;,&quot;.&quot;" ForeColor="White" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"></asp:RegularExpressionValidator>
                             </EditItemTemplate>
                             <ItemTemplate>
                                 <asp:Label ID="Label5" runat="server" Text='<%# Bind("correo") %>'></asp:Label>
