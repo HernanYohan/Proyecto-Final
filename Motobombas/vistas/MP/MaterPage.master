@@ -1,0 +1,173 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="~/controladores/MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .nuevoEstilo1 {
+            background-image: url('/imagenes/21442983_10210899979881126_235589269_n.jpg');
+        }
+        #form1 {
+            text-align: center;
+        }
+        .auto-style12 {
+            width: 100%;
+        }
+        .auto-style14 {
+            width: 423px;
+        }
+        .auto-style16 {
+            width: 274px;
+        }
+        .nuevoEstilo2 {
+        }
+        .nuevoEstilo3 {
+            border-style: dashed;
+        }
+        .nuevoEstilo4 {
+            border-style: outset;
+        }
+        .nuevoEstilo5 {
+            border-style: groove;
+        }
+        .nuevoEstilo6 {
+            border-style: groove;
+        }
+        .nuevoEstilo7 {
+            border-style: groove;
+        }
+        .nuevoEstilo8 {
+            border-style: groove;
+        }
+        .nuevoEstilo9 {
+            border-style: groove;
+        }
+        .nuevoEstilo10 {
+            background-image: url('/imagenes/Azul%20encabezado.jpg');
+            margin-top: 0px;
+        }
+        .nuevoEstilo11 {
+            background-image: url('/imagenes/Azul encabezado.jpg');
+        }
+        .nuevoEstilo12 {
+            font-family: Georgia, "Times New Roman", Times, serif;
+            font-size: xx-large;
+            color: #FFFFFF;
+        }
+        .nuevoEstilo13 {
+            background-image: url('/imagenes/Azul encabezado.jpg');
+        }
+        .nuevoEstilo14 {
+            background-image: url('/imagenes/Azul encabezado.jpg');
+        }
+        .nuevoEstilo15 {
+            background-color: #003366;
+            color: #FFFFFF;
+        }
+        .nuevoEstilo16 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+        .nuevoEstilo17 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+        .nuevoEstilo18 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+        .auto-style17 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+            width: 415px;
+        }
+        .auto-style18 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+            width: 437px;
+        }
+        .auto-style19 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+            width: 459px;
+        }
+        .auto-style20 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+            width: 345px;
+        }
+        .nuevoEstilo19 {
+            background-color: #003366;
+        }
+        .nuevoEstilo20 {
+            background-color: #003366;
+        }
+        .nuevoEstilo21 {
+            background-color: #003366;
+        }
+        .nuevoEstilo22 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+    </style>
+</head>
+<body class="nuevoEstilo1">
+    <form id="form1" runat="server">
+    <div>
+        
+            <p class="nuevoEstilo11">
+                <span class="nuevoEstilo12">Hidroimportaciones de Colombia</span></div>
+        <table class="nuevoEstilo10">
+            <tr>
+                <td class="nuevoEstilo22">
+                    <asp:ImageButton ID="ImageButton2" runat="server" Height="113px" ImageUrl="~/imagenes/21397458_10210899627312312_1045478269_n.png" OnClick="ImageButton2_Click" Width="101px" CssClass="nuevoEstilo8" />
+                </td>
+                <td class="auto-style20">
+                    <asp:DropDownList ID="DDL_productos" runat="server" style="margin-top: 93px; color: #FFFFFF;" AutoPostBack="True" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged" CssClass="nuevoEstilo21">
+                        <asp:ListItem Value="0">Seleccione</asp:ListItem>
+                        <asp:ListItem Value="1">Todos los Productos</asp:ListItem>
+                        <asp:ListItem Value="2">Bombas</asp:ListItem>
+                        <asp:ListItem Value="3">Tanques</asp:ListItem>
+                        <asp:ListItem Value="4">Accesorios</asp:ListItem>
+                    </asp:DropDownList>
+                </td>
+                <td class="auto-style19">
+                    <asp:Button ID="Button1" runat="server" Height="36px" style="margin-left: 4px; margin-top: 98px; color: #FFFFFF;" Text="Inicio Sesion" Width="136px" OnClick="Button1_Click" CssClass="nuevoEstilo20" />
+                </td>
+                <td class="auto-style18">
+                    <asp:Button ID="Button2" runat="server" Height="37px" style="margin-left: 15px; margin-top: 98px; margin-bottom: 0px; color: #FFFFFF;" Text="Registro" Width="120px" OnClick="Button2_Click" CssClass="nuevoEstilo19" />
+                </td>
+                <td class="auto-style17">
+                    <asp:Image ID="Image4" runat="server" Height="115px" ImageUrl="~/imagenes/logo.png" Width="102px" />
+                </td>
+            </tr>
+        </table>
+        <table class="auto-style12">
+            <tr>
+                <td class="auto-style16">
+                    <asp:Image ID="Image2" runat="server" Height="296px" ImageUrl="~/imagenes/21469823_10210899655193009_1841696628_n.png" style="margin-left: 0px" Width="272px" />
+                </td>
+                <td class="nuevoEstilo9">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+                    </p>
+        
+                </td>
+            </tr>
+        </table>
+        <table class="auto-style12">
+            <tr>
+                <td class="auto-style14">
+                    <asp:Image ID="Image1" runat="server" ImageUrl="~/imagenes/21443237_10210900063123207_21958764_n.jpg" Width="192px" />
+                </td>
+                <td class="nuevoEstilo16">
+                    &nbsp;&nbsp;&nbsp;<br />
+                    <asp:ImageButton ID="B_pqr" runat="server" Height="107px" ImageUrl="~/imagenes/pqr.png" OnClick="B_pqr_Click1" Width="162px" />
+                    <br />
+                </td>
+                <td style="background-color: #FFFF99" class="nuevoEstilo17">
+                    <asp:Image ID="Image3" runat="server" Height="149px" ImageUrl="~/imagenes/21397458_10210899627312312_1045478269_n.png" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

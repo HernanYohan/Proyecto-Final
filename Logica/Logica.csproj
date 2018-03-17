@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C5B78193-7E39-43D3-B73E-6148E61D0E02}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Logica</RootNamespace>
+    <AssemblyName>Logica</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Correo.cs" />
+    <Compile Include="L_accesorios_cliente.cs" />
+    <Compile Include="L_bombas_cliente.cs" />
+    <Compile Include="L_carrito.cs" />
+    <Compile Include="l_catalogo_cliente.cs" />
+    <Compile Include="L_Catologo.cs" />
+    <Compile Include="L_Cliente.cs" />
+    <Compile Include="L_factura.cs" />
+    <Compile Include="l_generar_token.cs" />
+    <Compile Include="L_MasterAdmin.cs" />
+    <Compile Include="L_masterCliente.cs" />
+    <Compile Include="L_MasterVisitante.cs" />
+    <Compile Include="L_Pedido.cs" />
+    <Compile Include="L_pedido_admin.cs" />
+    <Compile Include="L_PQR.cs" />
+    <Compile Include="L_productos.cs" />
+    <Compile Include="L_Proveedor.cs" />
+    <Compile Include="L_recupera_contrasena.cs" />
+    <Compile Include="L_seleccion_carrito.cs" />
+    <Compile Include="L_tanques_cliente.cs" />
+    <Compile Include="L_Usuario.cs" />
+    <Compile Include="Mac.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="validar_session.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Datos\Datos.csproj">
+      <Project>{63ed949e-be10-4c6d-8c48-1cb3ea4345a6}</Project>
+      <Name>Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Encapsular\Encapsular.csproj">
+      <Project>{cc11b345-fd89-4235-b827-09b04c1fa9e0}</Project>
+      <Name>Encapsular</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilitarios\Utilitarios.csproj">
+      <Project>{96e2bae4-145e-410a-8027-0c640bf1919e}</Project>
+      <Name>Utilitarios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

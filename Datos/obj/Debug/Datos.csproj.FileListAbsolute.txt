@@ -1,0 +1,163 @@
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\bin\Debug\Datos.dll
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\bin\Debug\Datos.pdb
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\bin\Debug\Encapsular.dll
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\bin\Debug\Utilitarios.dll
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\bin\Debug\Encapsular.pdb
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\obj\Debug\Datos.dll
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\obj\Debug\Datos.pdb
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\bin\Debug\Datos.dll
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\bin\Debug\Datos.pdb
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\bin\Debug\Encapsular.dll
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\bin\Debug\Npgsql.dll
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\bin\Debug\Utilitarios.dll
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\bin\Debug\Mono.Security.dll
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\bin\Debug\Encapsular.pdb
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\bin\Debug\Npgsql.pdb
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\bin\Debug\Npgsql.xml
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\bin\Debug\de\Npgsql.resources.dll
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\bin\Debug\es\Npgsql.resources.dll
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\obj\Debug\Datos.dll
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Datos\obj\Debug\Datos.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\bin\Debug\Datos.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\bin\Debug\Datos.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\bin\Debug\Encapsular.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\bin\Debug\Utilitarios.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\bin\Debug\Mono.Security.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\bin\Debug\Encapsular.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\bin\Debug\Npgsql.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\bin\Debug\Npgsql.xml
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\obj\Debug\Datos.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Proyecto-Motobombas-\Datos\obj\Debug\Datos.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\bin\Debug\Datos.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\bin\Debug\Datos.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\bin\Debug\Encapsular.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\bin\Debug\Utilitarios.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\bin\Debug\Mono.Security.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\bin\Debug\Encapsular.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\bin\Debug\Npgsql.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\bin\Debug\Npgsql.xml
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\obj\Debug\Datos.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Datos\obj\Debug\Datos.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\bin\Debug\Datos.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\bin\Debug\Datos.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\bin\Debug\Encapsular.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\bin\Debug\Utilitarios.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\bin\Debug\Mono.Security.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\bin\Debug\Encapsular.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\bin\Debug\Npgsql.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\bin\Debug\Npgsql.xml
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\obj\Debug\Datos.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Datos\obj\Debug\Datos.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\bin\Debug\Datos.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\bin\Debug\Datos.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\bin\Debug\Encapsular.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\bin\Debug\Utilitarios.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\bin\Debug\Mono.Security.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\bin\Debug\Encapsular.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\bin\Debug\Npgsql.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\bin\Debug\Npgsql.xml
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\obj\Debug\Datos.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\28.02.2018\Datos\obj\Debug\Datos.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\bin\Debug\Datos.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\bin\Debug\Datos.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\bin\Debug\Encapsular.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\bin\Debug\Utilitarios.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\bin\Debug\Mono.Security.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\bin\Debug\Encapsular.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\bin\Debug\Npgsql.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\bin\Debug\Npgsql.xml
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\obj\Debug\Datos.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Datos\obj\Debug\Datos.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\bin\Debug\Datos.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\bin\Debug\Datos.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\bin\Debug\Encapsular.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\bin\Debug\Utilitarios.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\bin\Debug\Mono.Security.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\bin\Debug\Encapsular.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\bin\Debug\Npgsql.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\bin\Debug\Npgsql.xml
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\obj\Debug\Datos.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Datos\obj\Debug\Datos.pdb
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\bin\Debug\Datos.dll
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\bin\Debug\Datos.pdb
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\bin\Debug\Encapsular.dll
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\bin\Debug\Utilitarios.dll
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\bin\Debug\Mono.Security.dll
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\bin\Debug\Encapsular.pdb
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\bin\Debug\Npgsql.pdb
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\bin\Debug\Npgsql.xml
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\bin\Debug\de\Npgsql.resources.dll
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\bin\Debug\es\Npgsql.resources.dll
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\obj\Debug\Datos.dll
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Datos\obj\Debug\Datos.pdb
+C:\Users\user\Documents\GitHub\ultimo\Datos\bin\Debug\Datos.dll
+C:\Users\user\Documents\GitHub\ultimo\Datos\bin\Debug\Datos.pdb
+C:\Users\user\Documents\GitHub\ultimo\Datos\bin\Debug\Encapsular.dll
+C:\Users\user\Documents\GitHub\ultimo\Datos\bin\Debug\Utilitarios.dll
+C:\Users\user\Documents\GitHub\ultimo\Datos\bin\Debug\Encapsular.pdb
+C:\Users\user\Documents\GitHub\ultimo\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\user\Documents\GitHub\ultimo\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\ultimo\Datos\obj\Debug\Datos.dll
+C:\Users\user\Documents\GitHub\ultimo\Datos\obj\Debug\Datos.pdb

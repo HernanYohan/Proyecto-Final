@@ -1,0 +1,40 @@
+C:\Users\user\Documents\GitHub\proyeto_m\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\user\Documents\GitHub\proyeto_m\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\user\Documents\GitHub\proyeto_m\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\user\Documents\GitHub\proyeto_m\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\user\Documents\GitHub\proyeto_m\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\naruk\Documents\GitHub\Proyecto-Motobombas-\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\Migrar Proveedor\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\26.02.2018\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\01.03.2018\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\Hernan Hernandez\Documents\Hernan\universidad\Ingeneria Software 2\Proyeto avances\05.03.2018\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\user\Documents\GitHub\Motobombas-IS2\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\user\Documents\GitHub\ultimo\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\user\Documents\GitHub\ultimo\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\user\Documents\GitHub\ultimo\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\user\Documents\GitHub\ultimo\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\user\Documents\GitHub\ultimo\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache

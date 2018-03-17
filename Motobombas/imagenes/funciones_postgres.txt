@@ -1,0 +1,116 @@
+CREATE OR REPLACE FUNCTION public.modifica_json(
+	_nombre character varying,
+	_apellido character varying,
+	_ciudad character varying,
+	_sexo character varying,
+	_edad integer,
+	_id integer)
+    RETURNS SETOF boolean 
+    LANGUAGE 'plpgsql'
+
+    COST 100
+    VOLATILE 
+    ROWS 1000
+AS $BODY$
+
+	BEGIN
+	    
+		UPDATE informacion
+		SET json=('{'||'"Nombre"'||': "'||_nombre||'",'||'"Apellido"'||': "'||_apellido||'",'||'"Ciudad"'||': "'||_ciudad||'",'||'"Sexo"'||': "'||_sexo||'",'||'"edad"'||': "'||_edad||'"}')::json
+		WHERE  id_informacion=_id; 
+		
+	END
+	
+
+$BODY$;
+
+----------------------------------------
+
+ALTER FUNCTION public.modifica_json(character varying, character varying, character varying, character varying, integer, integer)
+    OWNER TO postgres;
+
+
+
+CREATE OR REPLACE FUNCTION public.f_insertar_json(
+	_informacion character varying)
+    RETURNS SETOF void 
+    LANGUAGE 'plpgsql'
+
+    COST 100
+    VOLATILE 
+    ROWS 1000
+AS $BODY$
+
+	BEGIN
+		INSERT 
+        INTO informacion
+		(
+			json
+		)
+		VALUES 
+		(
+			_informacion::JSON
+		);
+
+END
+
+$BODY$;
+
+ALTER FUNCTION public.f_insertar_json(character varying)
+    OWNER TO postgres;
+
+----------------------------------------------------
+CREATE OR REPLACE FUNCTION public.eliminar(
+	_id_json integer)
+    RETURNS boolean
+    LANGUAGE 'plpgsql'
+
+    COST 70
+    VOLATILE 
+    ROWS 0
+AS $BODY$
+
+begin
+delete from informacion
+where id_informacion=$1;
+return true;
+end;
+
+$BODY$;
+
+ALTER FUNCTION public.eliminar(integer)
+    OWNER TO postgres;
+
+--------------------------------------------------
+CREATE OR REPLACE FUNCTION public.mostrar(
+	)
+    RETURNS SETOF usuario 
+    LANGUAGE 'plpgsql'
+
+    COST 100
+    VOLATILE 
+    ROWS 1000
+AS $BODY$
+
+DECLARE
+BEGIN
+RETURN QUERY
+
+SELECT 
+id_informacion,
+(json ->>'Nombre'):: character varying,
+(json ->>'Apellido'):: character varying,
+(json ->>'Ciudad'):: character varying,
+(json ->>'Sexo'):: character varying,
+(json ->>'Edad'):: integer
+
+FROM 
+informacion;
+
+END
+
+$BODY$;
+
+ALTER FUNCTION public.mostrar()
+    OWNER TO postgres;
+

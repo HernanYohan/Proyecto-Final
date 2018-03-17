@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Motobombas(2)", "http://localhost:8382", "{91E04EF5-CD12-4936-853D-3DB56BE126EA}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{c5b78193-7e39-43d3-b73e-6148e61d0e02}|Logica.dll;{96e2bae4-145e-410a-8027-0c640bf1919e}|Utilitarios.dll;{63ED949E-BE10-4C6D-8C48-1CB3EA4345A6}|Datos.dll;{CC11B345-FD89-4235-B827-09B04C1FA9E0}|Encapsular.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_8382"
+		Debug.AspNetCompiler.PhysicalPath = "..\Motobombas\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8382\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_8382"
+		Release.AspNetCompiler.PhysicalPath = "..\Motobombas\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8382\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\Motobombas\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "..\Logica\Logica.csproj", "{C5B78193-7E39-43D3-B73E-6148E61D0E02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsular", "..\Encapsular\Encapsular.csproj", "{CC11B345-FD89-4235-B827-09B04C1FA9E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "..\Datos\Datos.csproj", "{63ED949E-BE10-4C6D-8C48-1CB3EA4345A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilitarios", "..\Utilitarios\Utilitarios.csproj", "{96E2BAE4-145E-410A-8027-0C640BF1919E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E04EF5-CD12-4936-853D-3DB56BE126EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E04EF5-CD12-4936-853D-3DB56BE126EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E04EF5-CD12-4936-853D-3DB56BE126EA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E04EF5-CD12-4936-853D-3DB56BE126EA}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{C5B78193-7E39-43D3-B73E-6148E61D0E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B78193-7E39-43D3-B73E-6148E61D0E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B78193-7E39-43D3-B73E-6148E61D0E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B78193-7E39-43D3-B73E-6148E61D0E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC11B345-FD89-4235-B827-09B04C1FA9E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC11B345-FD89-4235-B827-09B04C1FA9E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC11B345-FD89-4235-B827-09B04C1FA9E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC11B345-FD89-4235-B827-09B04C1FA9E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63ED949E-BE10-4C6D-8C48-1CB3EA4345A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63ED949E-BE10-4C6D-8C48-1CB3EA4345A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63ED949E-BE10-4C6D-8C48-1CB3EA4345A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63ED949E-BE10-4C6D-8C48-1CB3EA4345A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E2BAE4-145E-410A-8027-0C640BF1919E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E2BAE4-145E-410A-8027-0C640BF1919E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E2BAE4-145E-410A-8027-0C640BF1919E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E2BAE4-145E-410A-8027-0C640BF1919E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

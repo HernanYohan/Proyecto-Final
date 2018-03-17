@@ -1,0 +1,199 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="~/controladores/cliente.master.cs" Inherits="cliente" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style13 {
+            width: 82%;
+            text-align: left;
+            height: 162px;
+        }
+        .nuevoEstilo1 {
+            background-image: url('/imagenes/Color fondo.jpg');
+        }
+        .nuevoEstilo2 {
+            background-image: url('/imagenes/Color fondo.jpg');
+        }
+        .nuevoEstilo3 {
+            background-image: url('/imagenes/Color%20fondo.jpg');
+            height: 634px;
+        }
+        .nuevoEstilo4 {
+            color: #FFFFFF;
+        }
+        .nuevoEstilo5 {
+            color: #FFFFFF;
+            text-align: left;
+        }
+        .auto-style19 {
+            height: 268px;
+        }
+        .nuevoEstilo6 {
+            background-image: url('/imagenes/Color fondo.jpg');
+        }
+        .nuevoEstilo7 {
+            background-image: url('/imagenes/Azul encabezado.jpg');
+        }
+        .nuevoEstilo8 {
+            background-image: url('/imagenes/Azul encabezado.jpg');
+        }
+        .nuevoEstilo9 {
+            background-image: url('/imagenes/Azul encabezado.jpg');
+        }
+        .nuevoEstilo10 {
+            background-image: url('/imagenes/Azul encabezado.jpg');
+        }
+        .nuevoEstilo11 {
+            background-image: url('/imagenes/Azul encabezado.jpg');
+        }
+        .auto-style21 {
+            height: 40%;
+            width: 40%;
+        }
+        .nuevoEstilo12 {
+            text-decoration: none;
+        }
+        .nuevoEstilo13 {
+            background-color: #3333CC;
+        }
+        .nuevoEstilo14 {
+            background-image: url('/imagenes/Azul encabezado.jpg');
+        }
+        .nuevoEstilo15 {
+            color: #FFFFFF;
+            text-align: center;
+            font-size: medium;
+        }
+        .auto-style24 {
+            color: #FFFFFF;
+            text-align: center;
+            font-size: xx-large;
+        }
+        .nuevoEstilo16 {
+            background-color: #3333CC;
+            color: #FFFFFF;
+        }
+        .nuevoEstilo17 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+        .nuevoEstilo18 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+        .nuevoEstilo19 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+        .nuevoEstilo20 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+        .nuevoEstilo21 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+        .nuevoEstilo22 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+        .nuevoEstilo23 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+        .nuevoEstilo24 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+        .nuevoEstilo25 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+        .nuevoEstilo26 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+        .nuevoEstilo27 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+        .nuevoEstilo28 {
+            background-color: #3333CC;
+        }
+        .nuevoEstilo29 {
+            background-color: #000066;
+        }
+        .nuevoEstilo30 {
+            background-color: #000066;
+        }
+        .nuevoEstilo31 {
+            background-color: #000066;
+        }
+        .nuevoEstilo32 {
+            background-color: #000066;
+            color: #FFFFFF;
+        }
+        .auto-style25 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+            width: 16px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table class="nuevoEstilo6">
+            <tr class="nuevoEstilo22">
+                <td class="auto-style24" colspan="7">
+                    Hidroimportaciones de Colombia
+                </td>
+            </tr>
+            <tr class="nuevoEstilo22">
+                <td class="nuevoEstilo27">
+                    <asp:ImageButton ID="ImageButton1" runat="server" Height="58px" ImageUrl="~/imagenes/logo.png" Width="52px" OnClick="ImageButton1_Click" />
+                </td>
+                <td class="auto-style25" colspan="2">
+                    <asp:DropDownList ID="DDL_catalogo" runat="server" AutoPostBack="True" OnSelectedIndexChanged="DDL_catalogo_SelectedIndexChanged" CssClass="nuevoEstilo32">
+                        <asp:ListItem Value="0">Seleccione</asp:ListItem>
+                        <asp:ListItem Value="1">todos los Productos</asp:ListItem>
+                        <asp:ListItem Value="2">Bombas</asp:ListItem>
+                        <asp:ListItem Value="3">Tanques</asp:ListItem>
+                        <asp:ListItem Value="4">Accesorios</asp:ListItem>
+                    </asp:DropDownList>
+                </td>
+                <td class="nuevoEstilo24">
+                    <asp:Button ID="Button1" runat="server" Text="Historial de pedidos" style="margin-right: 0px; color: #FFFFFF; background-color: #0066CC;" CssClass="nuevoEstilo31" OnClick="Button1_Click" />
+                </td>
+                <td class="nuevoEstilo25" colspan="2">
+                    <asp:DropDownList ID="DDL_perfilC" runat="server" style="color: #FFFFFF; background-color: #0066CC" AutoPostBack="True" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged">
+                        <asp:ListItem Value="0">Perfil</asp:ListItem>
+                        <asp:ListItem Value="1">Editar perfil</asp:ListItem>
+                        <asp:ListItem Value="2">Salir</asp:ListItem>
+                    </asp:DropDownList>
+                </td>
+                <td class="nuevoEstilo26">
+                    <asp:ImageButton ID="ImageButton2" runat="server" Height="33px" ImageUrl="~/imagenes/carrito.png" Width="37px" style="text-align: right" OnClick="ImageButton2_Click" />
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style21" colspan="2">
+                    <asp:Image ID="Image1" runat="server" Height="177px" ImageUrl="~/imagenes/bomba1.png" Width="205px" />
+                </td>
+                <td colspan="5" class="auto-style19">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr class="nuevoEstilo17">
+                <td class="auto-style13" colspan="3">
+                    <span class="nuevoEstilo5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:Image ID="Image3" runat="server" Height="158px" ImageUrl="~/imagenes/21443237_10210900063123207_21958764_n.jpg" Width="280px" />
+                    </span></td>
+                <td class="nuevoEstilo19" colspan="2">
+                    <asp:ImageButton ID="B_pqr" runat="server" Height="109px" ImageUrl="~/imagenes/pqr.png" OnClick="B_pqr_Click1" Width="143px" />
+                </td>
+                <td class="nuevoEstilo20" colspan="2">
+                    <asp:Image ID="Image2" runat="server" Height="50px" ImageUrl="~/imagenes/logo.png" style="text-align: right" Width="74px" CssClass="nuevoEstilo18" />
+                </td>
+            </tr>
+        </table>
+        <br />
+    </div>
+    </form>
+</body>
+</html>

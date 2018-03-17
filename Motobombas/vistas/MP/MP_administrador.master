@@ -1,0 +1,135 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="~/controladores/MP_administrador.master.cs" Inherits="vistas_MP_administrador" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style3 {
+            text-align: center;
+            height: 64px;
+        }
+        .auto-style4 {
+            text-align: center;
+            height: 88px;
+        }
+        .nuevoEstilo1 {
+            color: #FFFFFF;
+            font-size: xx-large;<a href="MP_administrador.master">MP_administrador.master</a>
+        }
+        .auto-style5 {
+            text-align: center;
+            }
+        .nuevoEstilo2 {
+            background-image: url('/imagenes/21397411_10210900642537692_1201996969_n.jpg');
+        }
+        .nuevoEstilo3 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+        .nuevoEstilo4 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+        .nuevoEstilo5 {
+            background-image: url('/imagenes/21397411_10210900642537692_1201996969_n.jpg');
+            color: #FFFFFF;
+            font-size: x-large;
+        }
+        .nuevoEstilo6 {
+            background-image: url('/imagenes/21397411_10210900642537692_1201996969_n.jpg');
+        }
+        .nuevoEstilo7 {
+            color: #FFFFFF;
+        }
+        .nuevoEstilo8 {
+            color: #FFFFFF;
+            background-image: url('/imagenes/21397411_10210900642537692_1201996969_n.jpg');
+            font-size: x-large;
+        }
+        .nuevoEstilo9 {
+            background-image: url('/imagenes/21397411_10210900642537692_1201996969_n.jpg');
+            color: #FFFFFF;
+            font-size: x-large;
+        }
+        .nuevoEstilo10 {
+            color: #FFFFFF;
+            background-image: url('/imagenes/21397411_10210900642537692_1201996969_n.jpg');
+            font-size: x-large;
+        }
+        .nuevoEstilo11 {
+            background-image: url('/imagenes/21397411_10210900642537692_1201996969_n.jpg');
+            color: #FFFFFF;
+            font-size: x-large;
+            background-color: #0033CC;
+        }
+        .nuevoEstilo12 {
+            color: #FFFFFF;
+            background-image: url('/imagenes/21397411_10210900642537692_1201996969_n.jpg');
+            font-size: x-large;
+        }
+        .auto-style7 {
+            text-align: center;
+            height: 214px;
+        }
+        .auto-style8 {
+            height: 88px;
+        }
+        .nuevoEstilo13 {
+            background-image: url('/imagenes/35eb7d5bce221d9392feb1e426ba48af--wallpaper-azul-color-azul.jpg');
+        }
+        </style>
+</head>
+<body style="margin-bottom: 219px">
+    <form id="form1" runat="server">
+        <table class="auto-style1">
+            <tr class="nuevoEstilo13">
+                <td class="auto-style3" colspan="7"><span class="nuevoEstilo1">Hidroimportaciones de Colombia</span></td>
+            </tr>
+            <tr class="nuevoEstilo13">
+                <td class="auto-style4">
+                    <asp:ImageButton ID="B_inicio" runat="server" Height="60px" ImageUrl="~/imagenes/logo.png" OnClick="ImageButton1_Click" Width="108px" />
+                </td>
+                <td class="auto-style8">
+                    <asp:Button ID="B_producto" runat="server" OnClick="B_producto_Click" style="color: #FFFFFF; font-size: x-large; background-color: #0033CC" Text="Producto" />
+                </td>
+                <td class="auto-style8">
+                    <asp:Button ID="B_proveedor" runat="server" OnClick="B_proveedor_Click" style="color: #FFFFFF; font-size: x-large; background-color: #0033CC" Text="Proveedor" />
+                </td>
+                <td class="auto-style8">
+                    <asp:Button ID="B_usuario" runat="server" style="color: #FFFFFF; font-size: x-large; background-color: #0033CC" Text="Usuario" OnClick="B_usuario_Click" />
+                </td>
+                <td class="auto-style8">
+                    <asp:Button ID="B_pedidos" runat="server" CssClass="nuevoEstilo9" Text="Realizar pedido" OnClick="B_pedidos_Click" />
+                </td>
+                <td class="auto-style8">
+                    <asp:Button ID="B_historial" runat="server" CssClass="nuevoEstilo10" Text="Historial de pedidos" OnClick="B_historial_Click" />
+                </td>
+                <td class="auto-style8">
+                    <asp:DropDownList ID="DDL_perfil" runat="server" AutoPostBack="True" CssClass="nuevoEstilo11" OnSelectedIndexChanged="DropDownList4_SelectedIndexChanged">
+                        <asp:ListItem Value="0">Perfil</asp:ListItem>
+                        <asp:ListItem Value="1">Editar perfil</asp:ListItem>
+                        <asp:ListItem Value="2">Ver PQR</asp:ListItem>
+                        <asp:ListItem Value="3">Cerrar Sesion </asp:ListItem>
+                    </asp:DropDownList>
+                </td>
+            </tr>
+            <tr class="nuevoEstilo4">
+                <td class="auto-style7" colspan="7">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr class="nuevoEstilo4">
+                <td class="auto-style5" colspan="7"></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

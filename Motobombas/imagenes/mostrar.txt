@@ -1,0 +1,25 @@
+CREATE OR REPLACE FUNCTION public.mostrar_producto()
+
+
+RETURNS setof producto
+LANGUAGE 'plpgsql'
+
+COST 100
+VOLATILE 
+ROWS 1000
+
+AS $BODY$
+
+DECLARE
+BEGIN
+RETURN QUERY
+
+SELECT 
+*
+FROM 
+producto;
+
+
+END
+$BODY$;
+
